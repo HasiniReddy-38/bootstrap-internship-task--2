@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-internship-task-2",
+  "version": "1.0.0",
+  "description": "Internship Task 2 using Nunjucks and Vite",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.4"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
